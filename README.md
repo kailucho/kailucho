@@ -1,16 +1,63 @@
-### Hi there 👋
+## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
 
-<!--
-**kailucho/kailucho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/imthepk">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/imthepk">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/iampawan">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/imthepk">
+  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/codepur_ka_superhero/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/imthepk/">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/mtechviral/">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
+- 🌱 I’m currently learning more about React Native.
+<!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
+- 🤔 I’m looking for help with VelocityX documentation.
+- 💬 Ask me about React or any tech-related stuff.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+
+<!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk) -->
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)](https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/kailucho)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://luijhyguerraflores.netlify.app/)
+
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+
+<a href="https://github.com/kailucho">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailucho&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/kailucho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kailucho&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
