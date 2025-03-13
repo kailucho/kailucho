@@ -1,45 +1,45 @@
-## Hola, I'm [Luijhy Guerra!](https://luijhyguerraflores.netlify.app) 👋
+## Hi there! 👋 I'm Luijhy Guerra Flores
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailucho&label=Views&color=blue&style=plastic" alt="luijhy" /> </p>
-<a href="https://www.linkedin.com/in/luijhy-guerra-flores-057262144/">
-  <img align="left" alt="Luijhy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/luijhy-guerra-flores-057262144/">
+    <img align="left" alt="Luijhy's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://luijhyguerraflores.netlify.app/">
+    <img align="left" alt="Luijhy's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </a>
+</p>
+
+<br/><br/>
+
+- 🌱 I'm currently deepening my skills in **React Native and Redux**.
+- 💻 Experienced with React, Redux, Node.js, and modern web development.
+- ⚡ Fun fact: I spend almost 12 hours a day listening to music while coding!
+
+### 📫 Connect with me:
+[![Linkedin: kailucho](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)
+[![GitHub kailucho](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kailucho)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=netlify&logoColor=white)](https://luijhyguerraflores.netlify.app/)
+
+### 🚀 Languages & Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+
+### ⚡ Quick Facts:
+- 🎧 I spend almost 12 hours a day listening to music.
+- 🤓 Passionate about creating efficient and maintainable React & Redux applications.
+
 <a href="https://github.com/kailucho">
-  <img align="left" alt="Luijhy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kailucho&show_icons=true&theme=light&line_height=27" alt="Luijhy's GitHub stats"/>
 </a>
-<br/>
-<br/>
-
-<!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/). -->
-- 🌱 I’m currently learning more about React Native.
-<!-- - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral). -->
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about React or any tech-related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
-
-<!-- [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk) -->
-[![Linkedin: kailucho](https://img.shields.io/badge/-luijhy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)](https://www.linkedin.com/in/luijhy-guerra-flores-057262144/)
-[![GitHub kailucho]](https://github.com/kailucho)
-[![website]](https://luijhyguerraflores.netlify.app/)
-
-
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <a href="https://github.com/kailucho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailucho&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/kailucho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kailucho&show_icons=true&theme=light&line_height=27" alt="Luijhy's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailucho&layout=compact&theme=light" />
 </a>
 
-<div align="center">
+---
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+⚡ **Fun fact:** I listen to music around 12 hours each day 🎧.
